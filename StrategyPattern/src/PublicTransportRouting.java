@@ -5,6 +5,5 @@ public class PublicTransportRouting implements Routing {
 	public void createRoute() {
 		System.out.println("Erstelle Route für öffentliche Verkehrsmittel...");
 		System.out.println("Route wird gestartet...");
-		
 	}
 }

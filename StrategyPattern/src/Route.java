@@ -1,7 +1,7 @@
 
 public class Route {
 	
-	private Routing routing = new CarRouting();
+	public Routing routing;
 	
 	public void createRoute() {
 		routing.createRoute();
